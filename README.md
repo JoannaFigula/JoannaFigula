@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @JoannaFigula
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on project with ReactJS
 - 📫 How to reach me: joanna.figula@gmail.com
 
 <!---
